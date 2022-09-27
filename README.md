@@ -24,14 +24,19 @@ In addition, my experience outside the IT world is +6 years in customer service,
 
 ### How to Contact me 💬 ?
 <br/>
+<p> 
 <a href="https://www.linkedin.com/in/laureano-iglesias/">
-<img src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" width="35"/>
+<img  src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" width="35"/>
 </a> 
-<br/>
+</p>
+<p>
 <a href="https://twitter.com/ldIglesias">
-<img src="https://cdn-icons-png.flaticon.com/128/25/25347.png" width="35"/>
+<img  src="https://cdn-icons-png.flaticon.com/128/25/25347.png" width="35"/>
 </a> 
-<br/>
+</p>
+<p >
 <a href="mailto:laureanodamianiglesias@gmail.com?Subject=I%20wanna%20contact%20you.">
 <img src="https://cdn-icons-png.flaticon.com/128/60/60543.png" width="35">
-</a>laureanodamianiglesias@gmail.com
+</a>
+laureanodamianiglesias@gmail.com
+</p>
