@@ -1,7 +1,7 @@
 
 ![logo](https://res.cloudinary.com/dam8cpdbq/image/upload/v1664279299/Hello_world_Welcome_to_my_profile_ifeks0.gif)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mrchurches)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmrchurches&label=Visitors&labelColor=%23697689&countColor=%23555555)
 
 Hi👋! I'm Laureano Iglesias, from Buenos Aires, Argentina.
 Thank you for take the time to view my github profile.
