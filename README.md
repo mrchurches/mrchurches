@@ -35,8 +35,8 @@ In addition, my experience outside the IT world is +6 years in customer service,
 </a> 
 </p>
 <p >
-<a href="mailto:laureanodamianiglesias@gmail.com?Subject=I%20wanna%20contact%20you.">
+<a href="mailto:laureanoiglesias34@gmail.com?Subject=I%20wanna%20contact%20you.">
 <img src="https://cdn-icons-png.flaticon.com/128/60/60543.png" width="35">
 </a>
-laureanodamianiglesias@gmail.com
+laureanoiglesias34@gmail.com
 </p>
