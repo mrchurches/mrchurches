@@ -17,26 +17,22 @@ During this year I studied and finished the full stack web developer bootcamp at
 - Ask me about JavaScript, React, React Native, Redux, HTML, CSS, Node JS, Express, PostgreSQL, TypeScript, Sequelize, Bootstrap
 
 ### Soft skills
-In addition, my experience outside the IT world is +6 years in customer service, both face-to-face and by telephone, which allows me to have excellent communication, oral and written, and a very good active listening.
+In addition, my experience outside the IT world is +6 years in customer service, both face-to-face and by telephone, which allows me to have excellent communication, oral and written, and a very good active listening. 
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <img src="https://res.cloudinary.com/dam8cpdbq/image/upload/v1664279665/Hello_world_Welcome_to_my_profile_qfasu6.png">
 
-### How to Contact me 💬 ?
 <br/>
-<p> 
+
+### How to Contact me 💬 ?
+
 <a href="https://www.linkedin.com/in/laureano-iglesias/">
 <img  src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png" width="35"/>
 </a> 
-</p>
-<p>
 <a href="https://twitter.com/ldIglesias">
 <img  src="https://cdn-icons-png.flaticon.com/128/25/25347.png" width="35"/>
 </a> 
-</p>
-<p >
 <a href="mailto:laureanodamianiglesias@gmail.com?Subject=I%20wanna%20contact%20you.">
 <img src="https://cdn-icons-png.flaticon.com/128/60/60543.png" width="35">
 </a>
 laureanodamianiglesias@gmail.com
-</p>
