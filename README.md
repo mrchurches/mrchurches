@@ -32,17 +32,7 @@ In addition, my experience outside the IT world is +6 years in customer service,
 <a href="https://twitter.com/ldIglesias">
 <img  src="https://cdn-icons-png.flaticon.com/128/25/25347.png" width="35"/>
 </a> 
-<<<<<<< HEAD
 <a href="mailto:laureanodamianiglesias@gmail.com?Subject=I%20wanna%20contact%20you.">
 <img src="https://cdn-icons-png.flaticon.com/128/60/60543.png" width="35">
 </a>
 laureanodamianiglesias@gmail.com
-=======
-</p>
-<p >
-<a href="mailto:laureanoiglesias34@gmail.com?Subject=I%20wanna%20contact%20you.">
-<img src="https://cdn-icons-png.flaticon.com/128/60/60543.png" width="35">
-</a>
-laureanoiglesias34@gmail.com
-</p>
->>>>>>> 1d341aebb232aab0e3762c213bfda573e09d54e8
