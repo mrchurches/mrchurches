@@ -2,8 +2,8 @@ Hi👋! I'm Laureano Iglesias, from Buenos Aires, Argentina.
 Thank you for take the time to view my github profile.
 
 ## About me
-I'm fullstack developer.
--Graduated at Henry bootcamp in Javascript. (+700hs of practice)
+- I'm fullstack developer.
+- Graduated at Henry bootcamp in Javascript. (+700hs of practice)
 -  I’m looking to collaborate on Projects.
 - Ask me about JavaScript, React, Redux, HTML, CSS, NodeJS, Express, Postgres, TypeScript, Sequelize, Firebase and i will help you.
 
