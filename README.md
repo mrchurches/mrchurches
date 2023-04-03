@@ -20,9 +20,9 @@ In addition, my experience outside the IT world is +6 years in customer service,
 <a href="https://twitter.com/ldIglesias">
 <img  src="https://cdn-icons-png.flaticon.com/128/25/25347.png" width="35"/>
 </a> 
-<a href="mailto:laureanodamianiglesias@gmail.com?Subject=I%20wanna%20contact%20you.">
+<a href="mailto:laureanoiglesias34@gmail.com?Subject=I%20wanna%20contact%20you.">
 <img src="https://cdn-icons-png.flaticon.com/128/60/60543.png" width="35">
 </a>
-laureanodamianiglesias@gmail.com
+laureanoiglesias34@gmail.com
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmrchurches&label=Visitors&labelColor=%23697689&countColor=%23555555)
