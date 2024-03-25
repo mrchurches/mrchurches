@@ -12,9 +12,3 @@
 ### How to Contact me 💬 ?
 →<a href="https://www.linkedin.com/in/laureano-iglesias/">My LinkedIn</a> <br/> 
 →If you prefer you can send me an  email here laureanoiglesias34@gmail.com
-
-### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrchurches)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchurches)](https://github.com/anuraghazra/github-readme-stats)
