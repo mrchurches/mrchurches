@@ -1,5 +1,7 @@
 ## About me
 - I'm a full stack developer gaining experience
+- +1 year of experience in startups
+- Computer Engineering (on course) at Undav
 - Stack PERN (Postgres, Express, React, NodeJS)
 - Ruby on Rails (Ruby, Turbo-frames, Stimulus, AlpineJS) 👌
 -  I’m looking to collaborate on  new Projects.
