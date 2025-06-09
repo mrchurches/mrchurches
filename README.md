@@ -1,15 +1,9 @@
 ## About me
-- I'm a full stack developer gaining experience
-- +1 year of experience in startups
-- Computer Engineering (on course) at Undav
-- Stack PERN (Postgres, Express, React, NodeJS)
-- Ruby on Rails (Ruby, Turbo-frames, Stimulus, AlpineJS) 👌
+- I'm a full stack developer with strong front end skills
+- +3 year of experience in startups
+- Learning Solidity
+- Stack PERN/MERN
 -  I’m looking to collaborate on  new Projects.
-
-### Soft skills
-- I adapt quickly to working teams.
-- I constantly prioritize communication.
-- Always is a good moment to learn new technologies
 
 ### How to Contact me 💬 ?
 →<a href="https://www.linkedin.com/in/laureano-iglesias/">My LinkedIn</a> <br/> 
